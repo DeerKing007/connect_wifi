@@ -4,8 +4,8 @@
 ### 结构
 connect_wifi
 
---__init__.py    初始化文件
+——— __init__.py    初始化文件
 
---wifi_model.py  利用pywifi模块进行测试连接附件wifi
+——— wifi_model.py  利用pywifi模块进行测试连接附件wifi
 
---wifi_pwd.py    生成可能性密码（6位数或8位数）
+——— wifi_pwd.py    生成可能性密码（6位数或8位数）
